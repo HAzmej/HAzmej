@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 ![Description de l'image](./1736950171172.jfif)
@@ -28,7 +29,7 @@
   <a href="https://www.linkedin.com/in/hazem-mejri-1284b81ba"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HAzmej)](https://github.com/HAzmej/github-readme-stats)
+
 <!--
 **HAzmej/HAzmej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
