@@ -11,6 +11,7 @@
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321)](https://github.com/HAzmej/Supervised_ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321)](https://github.com/HAzmej/Supervised_ML)
 
 <!--
 **HAzmej/HAzmej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
