@@ -2,13 +2,14 @@
 
 ![Description de l'image](./1736950171172.jfif)
 
-
+<p align="center">
 <a href="https://github.com/HAzmej/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAzmej&layout=compact&langs_count=8&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAzmej&layout=compact&langs_count=8&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/HAzmej/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HAzmej&show_icons=true&theme=tokyonight" />
 </a>
+</p>
 
 
 ## Projects
