@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAzmej&layout=compact&langs_count=8&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=ffa726&icon_color=ffb74d&text_color=ffd95b&bg_color=000000)](https://github.com/HAzmej/Supervised_ML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321)](https://github.com/HAzmej/Supervised_ML)
 
 <!--
 **HAzmej/HAzmej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
