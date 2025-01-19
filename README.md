@@ -4,8 +4,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HAzmej&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/HAzmej/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAzmej&layout=compact&langs_count=7&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HAzmej&layout=compact&langs_count=8&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=https://github.com/HAzmej/Malvertising_Detection)](https://github.com/HAzmej/github-readme-stats)
 
 <!--
 **HAzmej/HAzmej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
