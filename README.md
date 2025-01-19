@@ -15,10 +15,10 @@
 ## Projects
 <p align="center">
   <a href="https://github.com/HAzmej/Malvertising_Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Malvertising_Detection&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=200" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Malvertising_Detection&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=200"  />
   </a>
   <a href="https://github.com/HAzmej/Supervised_ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=500" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=500"  />
   </a>
 </p>
 
