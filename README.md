@@ -13,16 +13,19 @@
 
 
 ## Projects
+
 <p align="center">
   <a href="https://github.com/HAzmej/Malvertising_Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Malvertising_Detection&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=200"  />
   </a>
+  
   <a href="https://github.com/HAzmej/Supervised_ML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HAzmej&repo=Supervised_ML&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&card_width=200"  />
   </a>
 </p>
 
 ## Links
+
 <p align="center">
   <a href="mailto:mejri.hazem2070@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/hazem-mejri-1284b81ba"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
